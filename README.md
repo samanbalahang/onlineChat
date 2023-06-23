@@ -84,6 +84,8 @@
     | index.php
 4- با کمک یک ترمینال فایل زیر را اجرا کنید
     |server.php
+php server.php
+or  php -S localhost:8000 -t onlineChat
 5- در مرورگر خود متنی را در کادر ورود درج کنید و خروجی را مشاهده کنید            
 ```
 <br />
